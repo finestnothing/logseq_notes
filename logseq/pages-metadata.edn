@@ -6,7 +6,7 @@
   :block/updated-at 1668547782083}
  {:block/name "20221115",
   :block/created-at 1668496682207,
-  :block/updated-at 1668547768432}
+  :block/updated-at 1668549227696}
  {:block/name "20221116",
   :block/created-at 1668546601093,
   :block/updated-at 1668546601093}
@@ -290,9 +290,6 @@
  {:block/name "resource/atomic",
   :block/created-at 1668548182674,
   :block/updated-at 1668548182674}
- {:block/name "resource/fission",
-  :block/created-at 1668548158922,
-  :block/updated-at 1668548158922}
  {:block/name "resource/inbox",
   :block/created-at 1668548124698,
   :block/updated-at 1668548124698}

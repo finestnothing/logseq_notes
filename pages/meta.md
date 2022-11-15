@@ -6,6 +6,7 @@ exclude-from-graph-view:: true
 - Example heirarchy
 	- readme
 		- aor - personally relevant information and projects
+		  collapsed:: true
 			- [[health]]
 				- run a marathon - project
 				  id:: 63729d70-f21f-473f-ad1e-6a21314751f8
@@ -48,6 +49,7 @@ exclude-from-graph-view:: true
 			- ((63729ea5-b3d6-431e-b570-f4b704f6e339))
 			- ((63729ece-21a0-4291-92f2-9fb83174d485))
 		- resource
+		  collapsed:: true
 			- [[python]]
 				- Notes from ((63729e29-9b9c-4d74-8404-35df8e19740a))
 				  id:: 6372a090-91e7-4596-86c6-4c5bc6e084b9
