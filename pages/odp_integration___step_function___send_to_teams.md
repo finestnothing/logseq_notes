@@ -1,0 +1,15 @@
+- purpose
+	- Send a file to sharepoint shared files
+- inputs
+	- global_param_dict
+- parameters
+	- [[odp_integration/variable/file_path]]
+		- Source file path
+	- [[odp_integration/variable/file_name]]
+		- Source file name
+	- [[odp_integration/variable/file_type]]
+		- Source and teams file type
+	- [[odp_integration/variable/teams_file_path]]
+		- Teams file path to write to
+	- [[odp_integration/variable/teams_file_name]]
+		- Teams file name to write to

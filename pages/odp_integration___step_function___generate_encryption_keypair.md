@@ -1,0 +1,13 @@
+- purpose
+	- Generate encryption and decryption key pair
+- inputs
+	- global_param_dict
+- parameters
+	- [[odp_integration/variable/key_name]]
+		- Name to save file with and to name the key
+	- [[odp_integration/variable/key_comment]]
+		- Comment to attach to the key
+	- [[odp_integration/variable/key_user]]
+		- User email to attach to the key
+	- [[odp_integration/variable/key_path]]
+		- Path to write both keys to

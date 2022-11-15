@@ -1,0 +1,20 @@
+- purpose
+	- Encrypt a file with PGP encryption
+- inputs
+	- global_param_dict
+- parameters
+	- [[odp_integration/variable/key_path]]
+		- Path to the encryption key
+	- [[odp_integration/variable/key_name]]
+		- Name of the encryption key
+	- [[odp_integration/variable/file_path]]
+		- Source file path
+	- [[odp_integration/variable/file_name]]
+		- Source file name
+	- [[odp_integration/variable/file_type]]
+		- Source file type
+		- Supports any typ
+	- [[odp_integration/variable/e_file_path]]
+		- Path to write encrypted file to
+	- [[odp_integration/variable/e_file_name]]
+		- Name to write encrypted file to

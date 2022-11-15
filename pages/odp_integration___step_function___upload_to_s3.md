@@ -1,0 +1,23 @@
+up:: [[odp_integration/documentation]]
+
+- purpose
+	- Upload a file to s3
+	- Doesn't use s3 api, uses a mounted s3 bucket in dbfs
+- inputs
+	- global_param_dict
+- parameters
+	- [[odp_integration/variable/file_path]]
+		- Source file path
+	- [[odp_integration/variable/file_name]]
+		- Source file name
+	- [[odp_integration/variable/s3_bucket]]
+		- S3 bucket to write to
+	- [[odp_integration/variable/s3_file_path]]
+		- S3 file path to write to
+	- [[odp_integration/variable/s3_file_name]]
+		- S3 file name to write to
+	- [[odp_integration/variable/file_type]]
+		- Source file type (and resulting file type in s3)
+		- Supports most file types
+- TODO figure out a better way to handle encrypted files #odp_integration
+	- Should I just keep file_path and file_name and change the file_type?
