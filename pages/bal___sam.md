@@ -1,4 +1,0 @@
-up:: [[people]] 
-tags:: [[work]]
-
--

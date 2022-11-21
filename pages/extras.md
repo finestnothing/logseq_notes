@@ -1,0 +1,2 @@
+- This page will get linked to by notes that are meant to support the PKM
+- It also contains links to pages needed for maintaining the overall system

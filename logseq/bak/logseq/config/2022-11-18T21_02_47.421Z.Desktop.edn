@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["epic" "atlas" "prd_orphans" "staging" "inbox" "readme" "project" "meta/area_of_responsibility"]
+ :favorites ["readme" "aor" "archive" "project" "resource" "meta" "meta/area_of_responsibility"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
